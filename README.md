@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on ... <would we updated soon>
 - 📫 How to reach me: https://twitter.com/ParagTharani_24
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parag-Tharani)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Parag-Tharani&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
