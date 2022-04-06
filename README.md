@@ -5,14 +5,15 @@
 - 🌱 I’m currently learning Web Development and UI/UX ... 
 - 💞️ I’m looking to collaborate on ... <would we updated soon>
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ParagTharani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parag-tharani-184646222/) [![Gmail Badge](https://img.shields.io/badge/-ParagTharani24@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:ParagTharani24@gmail.com)
-  <br><br>
-  
+  <br><br><br>
   
   
   <h2> 🔥 Github Stats:</h2>
   
-  ![Ossama Mehmood GitHub stats](https://github-readme-stats.vercel.app/api?username=Parag-Tharani&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&bg_color=0,141321,4E1E3C&hide_title=true&hide_border=true&cache_seconds=1800)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parag-Tharani&layout=compact&theme=radical&bg_color=0,141321,4E1E3C&hide_border=true)
-  <br><br>
+  ![Ossama Mehmood GitHub stats](https://github-readme-stats.vercel.app/api?username=Parag-Tharani&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&bg_color=0,141321,4E1E3C&hide_title=true&hide_border=true&cache_seconds=1800)<br><br>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parag-Tharani&layout=compact&theme=radical&bg_color=0,141321,4E1E3C&hide_border=true)
+  <br><br><br>
 
 
 <h2>:bulb: Languages & Frameworks </h2>
@@ -23,7 +24,7 @@
 <code><img title="NodeJS" alt="node js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></code>
-</br></br>
+</br></br><br>
 
 
 <h2>Contribution Graph</h2>
