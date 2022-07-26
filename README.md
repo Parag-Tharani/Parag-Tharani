@@ -3,8 +3,9 @@
 <!-- 👋 Hello World!, I’m @Parag-Tharani-> an Aspiring Full Stack Web Developer -->
 - 👀 I’m interested in coding and exploring new technologies in Web 2 as well as in Web 3 ...
 - 🌱 I’m currently learning Web Development and UI/UX ... 
-- 💞️ I’m looking to collaborate on ... <would we updated soon>
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ParagTharani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parag-tharani-184646222/) [![Gmail Badge](https://img.shields.io/badge/-ParagTharani24@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:ParagTharani24@gmail.com)
+- 💞️ I’m looking to work with great Product based Compnay...
+- 💬 Ask me about **React , Express, MongoDB**.
+- :mailbox:Reach me @: [![Linkedin Badge](https://img.shields.io/badge/-ParagTharani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parag-tharani-184646222/) [![Gmail Badge](https://img.shields.io/badge/-ParagTharani24@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:ParagTharani24@gmail.com)
   <br><br><br>
   
   
@@ -20,10 +21,10 @@
 <code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="CSS 3" alt="css 3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></code>
 <code><img title="ReactJS" alt="react js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
 <code><img title="NodeJS" alt="node js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></code>
 </br></br><br>
 
 
