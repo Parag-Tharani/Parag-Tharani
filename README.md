@@ -53,8 +53,3 @@ class Skills extends SoftwareDeveloper {
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MySQL" width="40"     height="40"/></code>
   
   </br></br><br>
-
-
- <h2>Contribution Graph</h2>
-
-  <a href="https://github.com/Parag-Tharani"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Parag-Tharani&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a><br><br>
