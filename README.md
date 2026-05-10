@@ -9,13 +9,20 @@ const parag = {
     "React Native",
     "Mobile Architecture",
     "Performance Optimization",
-    "Realtime Systems"
+    "Realtime Systems",
+    "Web3 Infrastructure"
   ],
 
   tech: {
     mobile: ["React Native", "Android", "iOS"],
     frontend: ["React", "JavaScript", "Redux"],
   },
+
+  interests: [
+    "DeFi",
+    "Blockchain Systems",
+    "Distributed Technologies"
+  ],
 
   currentlyBuilding: "Scalable mobile experiences",
   mindset: "Build fast. Scale clean. Ship quality."
